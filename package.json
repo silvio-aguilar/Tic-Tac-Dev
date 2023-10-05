@@ -1,0 +1,15 @@
+{
+  "name": "dmkxovofa7zhp8rpkjwo",
+  "version": "1.0.0",
+  "description": "MemoryGame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvio Aguilar -> @kurzerhand on Instagram",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
